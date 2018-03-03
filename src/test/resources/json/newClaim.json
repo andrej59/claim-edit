@@ -1,0 +1,7 @@
+{
+  "id": "App.model.Claim-1",
+  "name": "Новая заявка",
+  "fromAccountId": 0,
+  "toAccountId": 0,
+  "statusId": 0
+}

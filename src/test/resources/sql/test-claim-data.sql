@@ -1,0 +1,2 @@
+-- Скрипт тестовых данных заявок
+INSERT INTO OP_CLAIMS(ID, NAME, FROM_ACCOUNT_ID, TO_ACCOUNT_ID, STATUS_ID, DT_CREATE) VALUES (1, 'Тестовая заявка', 123, 124, 1, CURRENT_TIMESTAMP());

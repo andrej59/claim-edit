@@ -1,0 +1,23 @@
+[
+  {
+    "id": 123,
+    "email": "ivanov@mail.ru",
+    "lastName": "Иванов",
+    "firstName": "Иван",
+    "middleName": "Иванович"
+  },
+  {
+    "id": 124,
+    "email": "smirnov@mail.ru",
+    "lastName": "Смирнов",
+    "firstName": "Пётр",
+    "middleName": "Николаевич"
+  },
+  {
+    "id": 125,
+    "email": "semenova@mail.ru",
+    "lastName": "Семёнова",
+    "firstName": "Наталья",
+    "middleName": "Ивановна"
+  }
+]
